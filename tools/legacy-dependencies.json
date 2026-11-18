@@ -1,0 +1,30 @@
+{
+  "repository": "jib-akbr/Grimlite-Li",
+  "commit": "aa0aa2a169c40f14d9cb6e38f1b94da4288a52ba",
+  "files": [
+    {
+      "path": "Dependency/AxInterop.ShockwaveFlashObjects.dll",
+      "sha256": "B2BC581AFB32D5B06A2673447D6EAFCDAFC84871D9607DAC1352D24692C1FBB6"
+    },
+    {
+      "path": "Dependency/Interop.ShockwaveFlashObjects.dll",
+      "sha256": "C6266F10A98E90955C3E99155D00E2F5998419DA61D7344F5727B6416DF80340"
+    },
+    {
+      "path": "Dependency/DarkUI.dll",
+      "sha256": "FAA1129AC891EEF8ACD7C913F06C3173132DE7E4B23F52E69C2473D79A6A7F10"
+    },
+    {
+      "path": "Dependency/FlatTabControl.dll",
+      "sha256": "7B5C958A59F5A188FA4912903342A13B8235C7593A1C7FDA3410C47431C4C5D5"
+    },
+    {
+      "path": "Dependency/Unity3.Eyedropper.dll",
+      "sha256": "5D245160CCF3B6F44929581EA414254BD861F4CFA7446F745D8DEBD17EA8D090"
+    },
+    {
+      "path": "Loader/grimoire.swf",
+      "sha256": "BB3CF5ABAA939B96F62B57CAFAACF03E70267B4976F099A6525EF88D1A06120E"
+    }
+  ]
+}
